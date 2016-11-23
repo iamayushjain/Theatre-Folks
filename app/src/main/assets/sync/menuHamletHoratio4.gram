@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( AND | <NULL> ) ( LET | <NULL> ) ( US | <NULL> ) ( HEAR | <NULL> ) ( BERNARDO | <NULL> ) ( SPEAK | <NULL> ) ( OF | <NULL> ) ( THIS	 | <NULL> ) ;

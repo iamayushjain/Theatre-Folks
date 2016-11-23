@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( AND | <NULL> ) ( LET | <NULL> ) ( THINE | <NULL> ) ( EYE | <NULL> ) ( LOOK | <NULL> ) ( LIKE | <NULL> ) ( A | <NULL> ) ( FRIEND | <NULL> ) ( ON | <NULL> ) ( DENMARK	 | <NULL> ) ;

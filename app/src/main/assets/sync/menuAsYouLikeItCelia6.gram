@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( SO | <NULL> ) ( WOULDST | <NULL> ) ( THOU | <NULL> ) ( IF | <NULL> ) ( THE | <NULL> ) ( TRUTH | <NULL> ) ( OF | <NULL> ) ( THY | <NULL> ) ( LOVE | <NULL> ) ( TO | <NULL> ) ( ME | <NULL> ) ( WERE | <NULL> ) ( SO | <NULL> ) ( RIGHTEOUSLY | <NULL> ) ;

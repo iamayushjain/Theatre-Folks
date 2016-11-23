@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( THOUGH | <NULL> ) ( TO | <NULL> ) ( HAVE | <NULL> ) ( HER | <NULL> ) ( AND | <NULL> ) ( DEATH | <NULL> ) ( WERE | <NULL> ) ( BOTH | <NULL> ) ( ONE | <NULL> ) ( THING	 | <NULL> ) ;

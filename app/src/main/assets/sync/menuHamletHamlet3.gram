@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( NOR | <NULL> ) ( CUSTOMARY | <NULL> ) ( SUITS | <NULL> ) ( OF | <NULL> ) ( SOLEMN | <NULL> ) ( BLACK | <NULL> ) ;

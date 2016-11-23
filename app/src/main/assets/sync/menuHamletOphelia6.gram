@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( FROM | <NULL> ) ( ANOTHER | <NULL> ) ( ONE	 | <NULL> ) ;

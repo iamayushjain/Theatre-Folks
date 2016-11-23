@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( STAY | <NULL> ) ( NOT | <NULL> ) ( TO | <NULL> ) ( ANSWER | <NULL> ) ( ME | <NULL> ) ( BUT | <NULL> ) ( GET | <NULL> ) ( THEE | <NULL> ) ( GONE	 | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( LEARN | <NULL> ) ( ME | <NULL> ) ( HOW | <NULL> ) ( TO | <NULL> ) ( REMEMBER | <NULL> ) ( ANY | <NULL> ) ( EXTRAORDINARY | <NULL> ) ( PLEASURE	 | <NULL> ) ;

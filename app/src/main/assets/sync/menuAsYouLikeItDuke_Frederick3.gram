@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( YOU | <NULL> ) ( WILL | <NULL> ) ( TAKE | <NULL> ) ( LITTLE | <NULL> ) ( DELIGHT | <NULL> ) ( IN | <NULL> ) ( IT | <NULL> ) ( I | <NULL> ) ( CAN | <NULL> ) ( TELL | <NULL> ) ( YOU	 | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( SEEK | <NULL> ) ( FOR | <NULL> ) ( THY | <NULL> ) ( NOBLE | <NULL> ) ( FATHER | <NULL> ) ( IN | <NULL> ) ( THE | <NULL> ) ( DUST	 | <NULL> ) ;

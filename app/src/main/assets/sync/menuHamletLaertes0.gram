@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( MOST | <NULL> ) ( HUMBLY | <NULL> ) ( DO | <NULL> ) ( I | <NULL> ) ( TAKE | <NULL> ) ( MY | <NULL> ) ( LEAVE | <NULL> ) ( MY | <NULL> ) ( LORD	 | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( NO | <NULL> ) ( JOCUND | <NULL> ) ( HEALTH | <NULL> ) ( THAT | <NULL> ) ( DENMARK | <NULL> ) ( DRINKS | <NULL> ) ( TO | <NULL> ) ( DAY	 | <NULL> ) ;

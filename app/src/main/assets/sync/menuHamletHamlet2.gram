@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( AY | <NULL> ) ( MADAM | <NULL> ) ( IT | <NULL> ) ( IS | <NULL> ) ( COMMON | <NULL> ) ;

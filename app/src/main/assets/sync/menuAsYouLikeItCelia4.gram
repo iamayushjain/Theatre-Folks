@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( SOME | <NULL> ) ( HOW | <NULL> ) ( BRIEF | <NULL> ) ( THE | <NULL> ) ( LIFE | <NULL> ) ( OF | <NULL> ) ( MAN	 | <NULL> ) ;

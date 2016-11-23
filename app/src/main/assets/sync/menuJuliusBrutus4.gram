@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WHAT | <NULL> ) ( MEANS | <NULL> ) ( THIS | <NULL> ) ( SHOUTING | <NULL> ) ( I | <NULL> ) ( DO | <NULL> ) ( FEAR | <NULL> ) ( THE | <NULL> ) ( PEOPLE	 | <NULL> ) ;

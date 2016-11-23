@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( THIS | <NULL> ) ( GENTLE | <NULL> ) ( AND | <NULL> ) ( UNFORCED | <NULL> ) ( ACCORD | <NULL> ) ( OF | <NULL> ) ( HAMLET	 | <NULL> ) ;

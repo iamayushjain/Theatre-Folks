@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WELL | <NULL> ) ( SIT | <NULL> ) ( WE | <NULL> ) ( DOWN	 | <NULL> ) ;

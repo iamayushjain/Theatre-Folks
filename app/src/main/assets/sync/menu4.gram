@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> = NO  | I  | AM  | NOT  | NO I  | NO AM  | NO NOT  | I AM  | I NOT  | AM NOT  | NO I AM  | NO I NOT  | NO AM NOT  | I AM NOT  | NO I AM NOT ;

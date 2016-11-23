@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( SWEET | <NULL> ) ( PHEBE | <NULL> ) ( DO | <NULL> ) ( NOT | <NULL> ) ( SCORN | <NULL> ) ( ME | <NULL> ) ( DO | <NULL> ) ( NOT | <NULL> ) ( PHEBE	 | <NULL> ) ;

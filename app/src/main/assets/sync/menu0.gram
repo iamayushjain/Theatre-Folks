@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> =WHAT  | IS  | YOUR  | NAME  | WHAT IS  | WHAT YOUR  | WHAT NAME  | IS YOUR  | IS NAME  | YOUR NAME  | WHAT IS YOUR  | WHAT IS NAME  | WHAT YOUR NAME  | IS YOUR NAME  | WHAT IS YOUR NAME ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( COME | <NULL> ) ( TO | <NULL> ) ( THE | <NULL> ) ( CAPITOL	 | <NULL> ) ;

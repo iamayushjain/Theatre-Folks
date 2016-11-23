@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> = I  | AM  | FROM  | MUMBAI  | I AM  | I FROM  | I MUMBAI  | AM FROM  | AM MUMBAI  | FROM MUMBAI  | I AM FROM  | I AM MUMBAI  | I FROM MUMBAI  | AM FROM MUMBAI  | I AM FROM MUMBAI ;

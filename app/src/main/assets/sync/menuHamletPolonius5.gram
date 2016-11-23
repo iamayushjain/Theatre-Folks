@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WHAT | <NULL> ) ( MAJESTY | <NULL> ) ( SHOULD | <NULL> ) ( BE | <NULL> ) ( WHAT | <NULL> ) ( DUTY | <NULL> ) ( IS	 | <NULL> ) ;

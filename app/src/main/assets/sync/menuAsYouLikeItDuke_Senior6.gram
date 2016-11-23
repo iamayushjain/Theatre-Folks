@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( EVEN | <NULL> ) ( DAUGHTER | <NULL> ) ( WELCOME | <NULL> ) ( IN | <NULL> ) ( NO | <NULL> ) ( LESS | <NULL> ) ( DEGREE | <NULL> ) ;

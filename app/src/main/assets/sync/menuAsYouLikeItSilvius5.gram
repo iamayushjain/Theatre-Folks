@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( I | <NULL> ) ( WILL | <NULL> ) ( NOT | <NULL> ) ( FAIL | <NULL> ) ( IF | <NULL> ) ( I | <NULL> ) ( LIVE	 | <NULL> ) ;

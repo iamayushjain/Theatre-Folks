@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( HOW | <NULL> ) ( SHOULD | <NULL> ) ( I | <NULL> ) ( YOUR | <NULL> ) ( TRUE | <NULL> ) ( LOVE | <NULL> ) ( KNOW	 | <NULL> ) ;

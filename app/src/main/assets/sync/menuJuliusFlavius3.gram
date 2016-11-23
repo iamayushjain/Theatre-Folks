@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( ASSEMBLE | <NULL> ) ( ALL | <NULL> ) ( THE | <NULL> ) ( POOR | <NULL> ) ( MEN | <NULL> ) ( OF | <NULL> ) ( YOUR | <NULL> ) ( SORT	 | <NULL> ) ;

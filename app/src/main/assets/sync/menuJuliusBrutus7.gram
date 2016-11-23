@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( THAT | <NULL> ) ( YOU | <NULL> ) ( WOULD | <NULL> ) ( HAVE | <NULL> ) ( ME | <NULL> ) ( SEEK | <NULL> ) ( INTO | <NULL> ) ( MYSELF | <NULL> ) ;

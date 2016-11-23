@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( HE | <NULL> ) ( WISHD | <NULL> ) ( TODAY | <NULL> ) ( OUR | <NULL> ) ( ENTERPRISE | <NULL> ) ( MIGHT | <NULL> ) ( THRIVE	 | <NULL> ) ;

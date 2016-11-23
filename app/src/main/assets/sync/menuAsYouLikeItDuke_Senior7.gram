@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( TO | <NULL> ) ( ONE | <NULL> ) ( HIS | <NULL> ) ( LANDS | <NULL> ) ( WITHHELD | <NULL> ) ( AND | <NULL> ) ( TO | <NULL> ) ( THE | <NULL> ) ( OTHER | <NULL> ) ;

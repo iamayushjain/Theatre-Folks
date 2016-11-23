@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( FOR | <NULL> ) ( I | <NULL> ) ( THINK | <NULL> ) ( YOU | <NULL> ) ( HAVE | <NULL> ) ( NO | <NULL> ) ( MONEY | <NULL> ) ( IN | <NULL> ) ( YOUR | <NULL> ) ( PURSE	 | <NULL> ) ;

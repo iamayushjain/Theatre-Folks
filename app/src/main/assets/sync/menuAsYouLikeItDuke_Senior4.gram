@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( HERE | <NULL> ) ( FEEL | <NULL> ) ( WE | <NULL> ) ( BUT | <NULL> ) ( THE | <NULL> ) ( PENALTY | <NULL> ) ( OF | <NULL> ) ( ADAM	 | <NULL> ) ;

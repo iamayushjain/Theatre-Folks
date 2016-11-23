@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( THEN | <NULL> ) ( IN | <NULL> ) ( MINE | <NULL> ) ( OWN | <NULL> ) ( PERSON | <NULL> ) ( I | <NULL> ) ( DIE	 | <NULL> ) ;

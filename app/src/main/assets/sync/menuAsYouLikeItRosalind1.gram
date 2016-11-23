@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( AND | <NULL> ) ( WOULD | <NULL> ) ( YOU | <NULL> ) ( YET | <NULL> ) ( I | <NULL> ) ( WERE | <NULL> ) ( MERRIER | <NULL> ) ( UNLESS | <NULL> ) ( YOU | <NULL> ) ( COULD	 | <NULL> ) ;

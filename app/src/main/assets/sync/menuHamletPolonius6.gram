@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WHY | <NULL> ) ( DAY | <NULL> ) ( IS | <NULL> ) ( DAY | <NULL> ) ( NIGHT | <NULL> ) ( NIGHT | <NULL> ) ( AND | <NULL> ) ( TIME | <NULL> ) ( IS | <NULL> ) ( TIME	 | <NULL> ) ;

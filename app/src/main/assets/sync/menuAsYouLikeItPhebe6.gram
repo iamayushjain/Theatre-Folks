@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( COME | <NULL> ) ( NOT | <NULL> ) ( THOU | <NULL> ) ( NEAR | <NULL> ) ( ME | <NULL> ) ( AND | <NULL> ) ( WHEN | <NULL> ) ( THAT | <NULL> ) ( TIME | <NULL> ) ( COMES	 | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( GOOD | <NULL> ) ( MORROW | <NULL> ) ( FAIR | <NULL> ) ( ONES | <NULL> ) ( PRAY | <NULL> ) ( YOU | <NULL> ) ( IF | <NULL> ) ( YOU | <NULL> ) ( KNOW	 | <NULL> ) ;

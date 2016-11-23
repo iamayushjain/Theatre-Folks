@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( AFFLICT | <NULL> ) ( ME | <NULL> ) ( WITH | <NULL> ) ( THY | <NULL> ) ( MOCKS | <NULL> ) ( PITY | <NULL> ) ( ME | <NULL> ) ( NOT | <NULL> ) ;

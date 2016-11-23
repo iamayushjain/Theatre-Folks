@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( YOU | <NULL> ) ( PULLD | <NULL> ) ( ME | <NULL> ) ( BY | <NULL> ) ( THE | <NULL> ) ( CLOAK | <NULL> ) ( WOULD | <NULL> ) ( YOU | <NULL> ) ( SPEAK | <NULL> ) ( WITH | <NULL> ) ( ME | <NULL> ) ;

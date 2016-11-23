@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( THEN | <NULL> ) ( LOVE | <NULL> ) ( ME | <NULL> ) ( ROSALIND | <NULL> ) ;

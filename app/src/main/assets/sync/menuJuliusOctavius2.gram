@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( OR | <NULL> ) ( HERE | <NULL> ) ( OR | <NULL> ) ( AT | <NULL> ) ( THE | <NULL> ) ( CAPITOL	 | <NULL> ) ;

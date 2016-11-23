@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( I | <NULL> ) ( SHALL | <NULL> ) ( THE | <NULL> ) ( EFFECT | <NULL> ) ( OF | <NULL> ) ( THIS | <NULL> ) ( GOOD | <NULL> ) ( LESSON | <NULL> ) ( KEEP	 | <NULL> ) ;

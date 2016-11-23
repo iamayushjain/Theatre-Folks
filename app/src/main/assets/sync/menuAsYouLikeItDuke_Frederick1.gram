@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( HOW | <NULL> ) ( NOW | <NULL> ) ( DAUGHTER | <NULL> ) ( AND | <NULL> ) ( COUSIN | <NULL> ) ;

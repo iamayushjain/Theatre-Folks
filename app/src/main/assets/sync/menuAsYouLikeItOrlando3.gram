@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( READY | <NULL> ) ( SIR | <NULL> ) ( BUT | <NULL> ) ( HIS | <NULL> ) ( WILL | <NULL> ) ( HATH | <NULL> ) ( IN | <NULL> ) ( IT | <NULL> ) ( A | <NULL> ) ( MORE | <NULL> ) ( MODEST | <NULL> ) ( WORKING	 | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( I | <NULL> ) ( WOULD | <NULL> ) ( HAVE | <NULL> ) ( HAD | <NULL> ) ( THEE | <NULL> ) ( THERE | <NULL> ) ( AND | <NULL> ) ( HERE | <NULL> ) ( AGAIN	 | <NULL> ) ;

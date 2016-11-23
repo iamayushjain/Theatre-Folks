@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( TEACH | <NULL> ) ( ME | <NULL> ) ( TO | <NULL> ) ( FORGET | <NULL> ) ( A | <NULL> ) ( BANISHED | <NULL> ) ( FATHER | <NULL> ) ( YOU | <NULL> ) ( MUST | <NULL> ) ( NOT	 | <NULL> ) ;

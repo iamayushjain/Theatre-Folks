@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( HASTE | <NULL> ) ( ME | <NULL> ) ( TO | <NULL> ) ( KNOW | <NULL> ) ( THAT | <NULL> ) ( I | <NULL> ) ( WITH | <NULL> ) ( WINGS | <NULL> ) ( AS | <NULL> ) ( SWIFT | <NULL> ) ;

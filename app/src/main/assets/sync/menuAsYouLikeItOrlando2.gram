@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( I | <NULL> ) ( COME | <NULL> ) ( BUT | <NULL> ) ( IN | <NULL> ) ( AS | <NULL> ) ( OTHERS | <NULL> ) ( DO | <NULL> ) ( TO | <NULL> ) ( TRY | <NULL> ) ( WITH | <NULL> ) ( HIM | <NULL> ) ( THE | <NULL> ) ( STRENGTH | <NULL> ) ( OF | <NULL> ) ( MY | <NULL> ) ( YOUTH	 | <NULL> ) ;

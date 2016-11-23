@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WHY | <NULL> ) ( DOST | <NULL> ) ( THOU | <NULL> ) ( STAY	 | <NULL> ) ;

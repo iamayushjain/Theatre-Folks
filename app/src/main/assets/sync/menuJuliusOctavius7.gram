@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( THOUGHTS | <NULL> ) ( OF | <NULL> ) ( GREAT | <NULL> ) ( VALUE | <NULL> ) ( WORTHY | <NULL> ) ( COGITATIONS | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( ALL | <NULL> ) ( SHALL | <NULL> ) ( FLOUT | <NULL> ) ( ME | <NULL> ) ( OUT | <NULL> ) ( OF | <NULL> ) ( MY | <NULL> ) ( CALLING	 | <NULL> ) ;

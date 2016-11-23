@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> = MY  | NAME  | IS  | RAVI  | MY NAME  | MY IS  | MY RAVI  | NAME IS  | NAME RAVI  | IS RAVI  | MY NAME IS  | MY NAME RAVI  | MY IS RAVI  | NAME IS RAVI  | MY NAME IS RAVI ;

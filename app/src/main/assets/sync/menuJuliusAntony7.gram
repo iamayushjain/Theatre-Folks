@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( NOW | <NULL> ) ( WHILST | <NULL> ) ( YOUR | <NULL> ) ( PURPLED | <NULL> ) ( HANDS | <NULL> ) ( DO | <NULL> ) ( REEK | <NULL> ) ( AND | <NULL> ) ( SMOKE | <NULL> ) ;

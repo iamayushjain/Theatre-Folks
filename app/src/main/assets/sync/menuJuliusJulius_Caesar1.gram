@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( SET | <NULL> ) ( ON | <NULL> ) ( AND | <NULL> ) ( LEAVE | <NULL> ) ( NO | <NULL> ) ( CEREMONY | <NULL> ) ( OUT	 | <NULL> ) ;

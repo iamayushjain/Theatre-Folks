@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+
+    <ProgressBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_margin="5dp" />
+
+    <RelativeLayout
+
+        android:id="@+id/relativeRecordingText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/seekBar">
+
+        <TextView
+            android:id="@+id/dialoguetext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_margin="10dp"
+            android:text="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccHjsbuwbciw"
+            android:textSize="40dp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#93c991"
+        android:padding="40dp">
+
+        <ImageButton
+            android:id="@+id/recordingButton"
+            android:layout_width="150dp"
+
+            android:layout_height="150dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/conversation_game_icon" />
+
+    </RelativeLayout>
+
+ </RelativeLayout>

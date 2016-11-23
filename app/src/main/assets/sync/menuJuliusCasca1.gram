@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( BID | <NULL> ) ( EVERY | <NULL> ) ( NOISE | <NULL> ) ( BE | <NULL> ) ( STILL | <NULL> ) ( PEACE | <NULL> ) ( YET | <NULL> ) ( AGAIN	 | <NULL> ) ;

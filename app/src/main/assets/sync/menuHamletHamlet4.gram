@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( NOR | <NULL> ) ( WINDY | <NULL> ) ( SUSPIRATION | <NULL> ) ( OF | <NULL> ) ( FORCED | <NULL> ) ( BREATH | <NULL> ) ;

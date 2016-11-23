@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WHAT | <NULL> ) ( MEAN | <NULL> ) ( YOU | <NULL> ) ( CAESAR | <NULL> ) ( THINK | <NULL> ) ( YOU | <NULL> ) ( TO | <NULL> ) ( WALK | <NULL> ) ( FORTH	 | <NULL> ) ;

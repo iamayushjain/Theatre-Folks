@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( IS | <NULL> ) ( THERE | <NULL> ) ( NONE | <NULL> ) ( HERE | <NULL> ) ( TO | <NULL> ) ( GIVE | <NULL> ) ( THE | <NULL> ) ( WOMAN	 | <NULL> ) ;

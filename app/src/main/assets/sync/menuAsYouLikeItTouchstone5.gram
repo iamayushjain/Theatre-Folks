@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( AND | <NULL> ) ( I | <NULL> ) ( MINE. | <NULL> ) ( I | <NULL> ) ( REMEMBER, | <NULL> ) ( WHEN | <NULL> ) ( I | <NULL> ) ( WAS | <NULL> ) ( IN | <NULL> ) ( LOVE | <NULL> ) ( I | <NULL> ) ( BROKE | <NULL> ) ( MY | <NULL> ) ( SWORD.	 | <NULL> ) ;

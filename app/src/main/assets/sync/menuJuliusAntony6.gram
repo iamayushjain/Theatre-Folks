@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( I | <NULL> ) ( DO | <NULL> ) ( BESEECH | <NULL> ) ( YE | <NULL> ) ( IF | <NULL> ) ( YOU | <NULL> ) ( BEAR | <NULL> ) ( ME | <NULL> ) ( HARD	 | <NULL> ) ;

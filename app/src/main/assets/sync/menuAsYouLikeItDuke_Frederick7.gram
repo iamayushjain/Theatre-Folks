@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( BEAR | <NULL> ) ( HIM | <NULL> ) ( AWAY | <NULL> ) ( WHAT | <NULL> ) ( IS | <NULL> ) ( THY | <NULL> ) ( NAME | <NULL> ) ( YOUNG | <NULL> ) ( MAN | <NULL> ) ;

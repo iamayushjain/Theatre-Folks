@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( AND | <NULL> ) ( SURE | <NULL> ) ( I | <NULL> ) ( AM | <NULL> ) ( TWO | <NULL> ) ( MEN | <NULL> ) ( THERE | <NULL> ) ( ARE | <NULL> ) ( NOT | <NULL> ) ( LIVING	 | <NULL> ) ;

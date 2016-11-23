@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( FAREWELL, | <NULL> ) ( OPHELIA | <NULL> ) ( AND | <NULL> ) ( REMEMBER | <NULL> ) ( WELL	 | <NULL> ) ;

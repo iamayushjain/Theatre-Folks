@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( I | <NULL> ) ( CARE | <NULL> ) ( NOT | <NULL> ) ( FOR | <NULL> ) ( MY | <NULL> ) ( SPIRITS | <NULL> ) ( IF | <NULL> ) ( MY | <NULL> ) ( LEGS | <NULL> ) ( WERE | <NULL> ) ( NOT | <NULL> ) ( WEARY	 | <NULL> ) ;

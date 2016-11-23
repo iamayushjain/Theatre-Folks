@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( BUT | <NULL> ) ( WHEREFORE | <NULL> ) ( ART | <NULL> ) ( NOT | <NULL> ) ( IN | <NULL> ) ( THY | <NULL> ) ( SHOP | <NULL> ) ( TODAY	 | <NULL> ) ;

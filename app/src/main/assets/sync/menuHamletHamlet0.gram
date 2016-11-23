@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( NOT | <NULL> ) ( SO | <NULL> ) ( MY | <NULL> ) ( LORD | <NULL> ) ( I | <NULL> ) ( AM | <NULL> ) ( TOO | <NULL> ) ( MUCH | <NULL> ) ( IN | <NULL> ) ( THE | <NULL> ) ( SUN | <NULL> ) ;

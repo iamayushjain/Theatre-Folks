@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( BUT | <NULL> ) ( NOW | <NULL> ) ( MY | <NULL> ) ( COUSIN | <NULL> ) ( HAMLET | <NULL> ) ( AND | <NULL> ) ( MY | <NULL> ) ( SON | <NULL> ) ;

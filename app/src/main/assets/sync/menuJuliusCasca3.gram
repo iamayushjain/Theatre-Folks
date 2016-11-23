@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WHY | <NULL> ) ( YOU | <NULL> ) ( WERE | <NULL> ) ( WITH | <NULL> ) ( HIM | <NULL> ) ( WERE | <NULL> ) ( YOU | <NULL> ) ( NOT	 | <NULL> ) ;

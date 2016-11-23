@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( NOR | <NULL> ) ( ANY | <NULL> ) ( UNPROPORTIONED | <NULL> ) ( THOUGHT | <NULL> ) ( HIS | <NULL> ) ( ACT | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( THOU | <NULL> ) ( TELL | <NULL> ) ( ST | <NULL> ) ( ME | <NULL> ) ( THERE | <NULL> ) ( IS | <NULL> ) ( MURDER | <NULL> ) ( IN | <NULL> ) ( MINE | <NULL> ) ( EYE	 | <NULL> ) ;

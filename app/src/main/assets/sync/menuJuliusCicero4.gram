@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( BUT | <NULL> ) ( MEN | <NULL> ) ( MAY | <NULL> ) ( CONSTRUE | <NULL> ) ( THINGS | <NULL> ) ( AFTER | <NULL> ) ( THEIR | <NULL> ) ( FASHION	 | <NULL> ) ;

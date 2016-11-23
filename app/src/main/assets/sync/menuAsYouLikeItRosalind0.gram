@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( DEAR | <NULL> ) ( CELIA | <NULL> ) ( I | <NULL> ) ( SHOW | <NULL> ) ( MORE | <NULL> ) ( MIRTH | <NULL> ) ( THAN | <NULL> ) ( I | <NULL> ) ( AM | <NULL> ) ( MISTRESS | <NULL> ) ( OF | <NULL> ) ;

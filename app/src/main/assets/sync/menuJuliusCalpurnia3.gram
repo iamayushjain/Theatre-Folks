@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( YET | <NULL> ) ( NOW | <NULL> ) ( THEY | <NULL> ) ( FRIGHT | <NULL> ) ( ME | <NULL> ) ( THERE | <NULL> ) ( IS | <NULL> ) ( ONE | <NULL> ) ( WITHIN	 | <NULL> ) ;

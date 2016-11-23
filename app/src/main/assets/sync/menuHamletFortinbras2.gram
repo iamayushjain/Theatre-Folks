@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WHAT | <NULL> ) ( FEAST | <NULL> ) ( IS | <NULL> ) ( TOWARD | <NULL> ) ( IN | <NULL> ) ( THINE | <NULL> ) ( ETERNAL | <NULL> ) ( CELL	 | <NULL> ) ;

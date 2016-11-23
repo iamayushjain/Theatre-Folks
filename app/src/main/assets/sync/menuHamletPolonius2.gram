@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( AND | <NULL> ) ( THESE | <NULL> ) ( FEW | <NULL> ) ( PRECEPTS | <NULL> ) ( IN | <NULL> ) ( THY | <NULL> ) ( MEMORY	 | <NULL> ) ;

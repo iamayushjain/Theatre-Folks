@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( DO | <NULL> ) ( NOT | <NULL> ) ( AS | <NULL> ) ( SOME | <NULL> ) ( UNGRACIOUS | <NULL> ) ( PASTORS | <NULL> ) ( DO	 | <NULL> ) ;

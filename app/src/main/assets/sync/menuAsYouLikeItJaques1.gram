@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( I | <NULL> ) ( THANK | <NULL> ) ( IT | <NULL> ) ( MORE | <NULL> ) ( I | <NULL> ) ( PRITHEE | <NULL> ) ( MORE | <NULL> ) ( I | <NULL> ) ( CAN | <NULL> ) ( SUCK	 | <NULL> ) ;

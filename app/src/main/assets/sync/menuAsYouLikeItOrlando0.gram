@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( I | <NULL> ) ( ATTEND | <NULL> ) ( THEM | <NULL> ) ( WITH | <NULL> ) ( ALL | <NULL> ) ( RESPECT | <NULL> ) ( AND | <NULL> ) ( DUTY	 | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( A | <NULL> ) ( LITTLE | <NULL> ) ( MORE | <NULL> ) ( THAN | <NULL> ) ( KIN | <NULL> ) ( AND | <NULL> ) ( LESS | <NULL> ) ( THAN | <NULL> ) ( KIND | <NULL> ) ;

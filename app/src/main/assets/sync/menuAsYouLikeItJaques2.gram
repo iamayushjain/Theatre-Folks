@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( MELANCHOLY | <NULL> ) ( OUT | <NULL> ) ( OF | <NULL> ) ( A | <NULL> ) ( SONG | <NULL> ) ( AS | <NULL> ) ( A | <NULL> ) ( WEASEL | <NULL> ) ( SUCKS | <NULL> ) ( EGGS	 | <NULL> ) ;

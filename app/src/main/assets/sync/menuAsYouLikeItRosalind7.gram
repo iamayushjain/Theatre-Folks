@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( NAY | <NULL> ) ( AN | <NULL> ) ( YOU | <NULL> ) ( BE | <NULL> ) ( SO | <NULL> ) ( TARDY | <NULL> ) ( COME | <NULL> ) ( NO | <NULL> ) ( MORE | <NULL> ) ( IN | <NULL> ) ( MY | <NULL> ) ( SIGHT | <NULL> ) ;

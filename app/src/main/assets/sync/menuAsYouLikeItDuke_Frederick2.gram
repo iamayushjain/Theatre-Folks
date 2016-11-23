@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( ARE | <NULL> ) ( YOU | <NULL> ) ( CREPT | <NULL> ) ( HITHER	 | <NULL> ) ;

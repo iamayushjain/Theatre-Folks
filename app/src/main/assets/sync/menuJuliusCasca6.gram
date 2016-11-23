@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( SHAKES | <NULL> ) ( LIKE | <NULL> ) ( A | <NULL> ) ( THING | <NULL> ) ( UNFIRM | <NULL> ) ( O | <NULL> ) ( CICERO	 | <NULL> ) ;

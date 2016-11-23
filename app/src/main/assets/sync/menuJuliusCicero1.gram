@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WHY | <NULL> ) ( ARE | <NULL> ) ( YOU | <NULL> ) ( BREATHLESS | <NULL> ) ( AND | <NULL> ) ( WHY | <NULL> ) ( STARE | <NULL> ) ( YOU | <NULL> ) ( SO	 | <NULL> ) ;

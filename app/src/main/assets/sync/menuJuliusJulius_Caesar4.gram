@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WHAT | <NULL> ) ( SAYST | <NULL> ) ( THOU | <NULL> ) ( TO | <NULL> ) ( ME | <NULL> ) ( NOW | <NULL> ) ( SPEAK | <NULL> ) ( ONCE | <NULL> ) ( AGAIN	 | <NULL> ) ;

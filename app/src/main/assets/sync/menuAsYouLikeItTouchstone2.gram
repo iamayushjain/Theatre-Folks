@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( YET | <NULL> ) ( I | <NULL> ) ( SHOULD | <NULL> ) ( BEAR | <NULL> ) ( NO | <NULL> ) ( CROSS | <NULL> ) ( IF | <NULL> ) ( I | <NULL> ) ( DID | <NULL> ) ( BEAR | <NULL> ) ( YOU	 | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( THAT | <NULL> ) ( EYES | <NULL> ) ( THAT | <NULL> ) ( ARE | <NULL> ) ( THE | <NULL> ) ( FRAIL | <NULL> ) ( AND | <NULL> ) ( SOFTEST | <NULL> ) ( THINGS	 | <NULL> ) ;

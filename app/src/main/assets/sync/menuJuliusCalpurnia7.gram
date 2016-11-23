@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( DO | <NULL> ) ( NOT | <NULL> ) ( GO | <NULL> ) ( FORTH | <NULL> ) ( TODAY | <NULL> ) ( CALL | <NULL> ) ( IT | <NULL> ) ( MY | <NULL> ) ( FEAR | <NULL> ) ;

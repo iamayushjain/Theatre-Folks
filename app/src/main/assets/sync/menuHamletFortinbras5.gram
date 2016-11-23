@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( THIS | <NULL> ) ( QUARRY | <NULL> ) ( CRIES | <NULL> ) ( ON | <NULL> ) ( HAVOC | <NULL> ) ( O | <NULL> ) ( PROUD | <NULL> ) ( DEATH	 | <NULL> ) ;

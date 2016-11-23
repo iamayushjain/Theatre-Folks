@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( AND | <NULL> ) ( YOU | <NULL> ) ( ARE | <NULL> ) ( STAYD | <NULL> ) ( FOR | <NULL> ) ( THERE | <NULL> ) ( MY | <NULL> ) ( BLESSING | <NULL> ) ( WITH | <NULL> ) ( THEE	 | <NULL> ) ;

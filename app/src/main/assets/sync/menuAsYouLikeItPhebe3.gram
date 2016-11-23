@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( TIS | <NULL> ) ( PRETTY | <NULL> ) ( SURE, | <NULL> ) ( AND | <NULL> ) ( VERY | <NULL> ) ( PROBABLE	 | <NULL> ) ;

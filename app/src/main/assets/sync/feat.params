@@ -1,0 +1,10 @@
+-lowerf 200
+-upperf 3500
+-nfilt 25
+-transform dct
+-lifter 22
+-feat s2_4x
+-agc none
+-cmn current
+-varnorm no
+-cmninit 71

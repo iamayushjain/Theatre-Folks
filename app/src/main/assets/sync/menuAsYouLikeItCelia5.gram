@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( I | <NULL> ) ( COULD | <NULL> ) ( HAVE | <NULL> ) ( TAUGHT | <NULL> ) ( MY | <NULL> ) ( LOVE | <NULL> ) ( TO | <NULL> ) ( TAKE | <NULL> ) ( THY | <NULL> ) ( FATHER | <NULL> ) ( FOR | <NULL> ) ( MINE	 | <NULL> ) ;

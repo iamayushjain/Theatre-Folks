@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( TRULY | <NULL> ) ( SHE | <NULL> ) ( MUST | <NULL> ) ( BE | <NULL> ) ( GIVEN | <NULL> ) ( OR | <NULL> ) ( THE | <NULL> ) ( MARRIAGE | <NULL> ) ( IS | <NULL> ) ( NOT | <NULL> ) ( LAWFUL	 | <NULL> ) ;

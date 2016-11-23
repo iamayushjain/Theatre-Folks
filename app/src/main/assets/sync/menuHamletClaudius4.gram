@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( BUT | <NULL> ) ( THE | <NULL> ) ( GREAT | <NULL> ) ( CANNON | <NULL> ) ( TO | <NULL> ) ( THE | <NULL> ) ( CLOUDS | <NULL> ) ( SHALL | <NULL> ) ( TELL	 | <NULL> ) ;

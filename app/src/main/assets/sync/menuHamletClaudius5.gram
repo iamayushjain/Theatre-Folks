@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( TAKE | <NULL> ) ( THY | <NULL> ) ( FAIR | <NULL> ) ( HOUR | <NULL> ) ( LAERTES | <NULL> ) ( TIME | <NULL> ) ( BE | <NULL> ) ( THINE	 | <NULL> ) ;

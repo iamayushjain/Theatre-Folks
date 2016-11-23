@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( MARK | <NULL> ) ( ME | <NULL> ) ( MY | <NULL> ) ( HOUR | <NULL> ) ( IS | <NULL> ) ( ALMOST | <NULL> ) ( COME	 | <NULL> ) ;

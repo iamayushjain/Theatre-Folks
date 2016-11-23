@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( NO | <NULL> ) ( CASSIUS | <NULL> ) ( FOR | <NULL> ) ( THE | <NULL> ) ( EYE | <NULL> ) ( SEES | <NULL> ) ( NOT | <NULL> ) ( ITSELF	 | <NULL> ) ;

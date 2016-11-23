@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( CHOOSE | <NULL> ) ( CAESAR | <NULL> ) ( FOR | <NULL> ) ( THEIR | <NULL> ) ( KING	 | <NULL> ) ;

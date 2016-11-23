@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( TEMPERED | <NULL> ) ( AS | <NULL> ) ( MINE | <NULL> ) ( IS | <NULL> ) ( TO | <NULL> ) ( THEE | <NULL> ) ;

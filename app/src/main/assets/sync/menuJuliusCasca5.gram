@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( ARE | <NULL> ) ( NOT | <NULL> ) ( YOU | <NULL> ) ( MOVED | <NULL> ) ( WHEN | <NULL> ) ( ALL | <NULL> ) ( THE | <NULL> ) ( SWAY | <NULL> ) ( OF | <NULL> ) ( EARTH	 | <NULL> ) ;

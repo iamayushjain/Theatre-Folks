@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WHERE | <NULL> ) ( IS | <NULL> ) ( THIS | <NULL> ) ( SIGHT	 | <NULL> ) ;

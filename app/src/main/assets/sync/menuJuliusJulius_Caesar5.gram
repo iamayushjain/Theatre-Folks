@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( DECIUS | <NULL> ) ( WELL | <NULL> ) ( URGED | <NULL> ) ( I | <NULL> ) ( THINK | <NULL> ) ( IT | <NULL> ) ( IS | <NULL> ) ( NOT | <NULL> ) ( MEET	 | <NULL> ) ;

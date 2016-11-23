@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( WERE | <NULL> ) ( NOTHING | <NULL> ) ( BUT | <NULL> ) ( TO | <NULL> ) ( WASTE | <NULL> ) ( NIGHT | <NULL> ) ( DAY | <NULL> ) ( AND | <NULL> ) ( TIME | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( PITY | <NULL> ) ( ME | <NULL> ) ( NOT | <NULL> ) ( BUT | <NULL> ) ( LEND | <NULL> ) ( THY | <NULL> ) ( SERIOUS | <NULL> ) ( HEARING | <NULL> ) ;

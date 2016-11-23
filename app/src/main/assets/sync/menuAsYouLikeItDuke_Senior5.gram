@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( O | <NULL> ) ( MY | <NULL> ) ( DEAR | <NULL> ) ( NIECE | <NULL> ) ( WELCOME | <NULL> ) ( THOU | <NULL> ) ( ART | <NULL> ) ( TO | <NULL> ) ( ME	 | <NULL> ) ;

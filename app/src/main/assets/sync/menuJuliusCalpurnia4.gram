@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( BESIDES | <NULL> ) ( THE | <NULL> ) ( THINGS | <NULL> ) ( THAT | <NULL> ) ( WE | <NULL> ) ( HAVE | <NULL> ) ( HEARD | <NULL> ) ( AND | <NULL> ) ( SEEN	 | <NULL> ) ;

@@ -1,0 +1,1 @@
+#JSGF V1.0;grammar menu;public <item> =  ( ERE | <NULL> ) ( I | <NULL> ) ( CAN | <NULL> ) ( TELL | <NULL> ) ( THEE | <NULL> ) ( WHAT | <NULL> ) ( THOU | <NULL> ) ( SHOULDST | <NULL> ) ( DO | <NULL> ) ( THERE	 | <NULL> ) ;

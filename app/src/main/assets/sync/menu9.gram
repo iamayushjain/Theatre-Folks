@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> = I  | HAVE  | TO  | GO  | NOW  | I HAVE  | I TO  | I GO  | I NOW  | HAVE TO  | HAVE GO  | HAVE NOW  | TO GO  | TO NOW  | GO NOW  | I HAVE TO  | I HAVE GO  | I HAVE NOW  | I TO GO  | I TO NOW  | I GO NOW  | HAVE TO GO  | HAVE TO NOW  | HAVE GO NOW  | TO GO NOW  | I HAVE TO GO  | I HAVE TO NOW  | I HAVE GO NOW  | I TO GO NOW  | HAVE TO GO NOW  | I HAVE TO GO NOW  ;
